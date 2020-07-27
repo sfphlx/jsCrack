@@ -23,7 +23,11 @@ location = {
 };
 window.loation = location;
 
-alter = function () {};
+alert = alert = function () {};
+
+function setInterval() {};
+
+function setTimeout() {};
 
 
 function getCookie(innerCode) {
